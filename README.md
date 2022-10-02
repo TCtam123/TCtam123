@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TCtam123
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning google apps script.
+- 💞️ I’m looking to collaborate on YouTube.
